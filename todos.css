@@ -40,8 +40,9 @@ html {
   }
 
 #login p {
+  line-height: 1.7em;
   margin: 2.5em 0 0;
-  text-align: right;
+  text-align: center;
 }
   #login p img {
     vertical-align: middle;
